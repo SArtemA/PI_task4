@@ -1,2 +1,7 @@
 streamlit
 tensorflow-cpu
+fastapi
+uvicorn
+transformers
+torch
+httpx
