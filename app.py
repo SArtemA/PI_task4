@@ -1,4 +1,5 @@
 # app.py
+pip install fastapi
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from transformers import pipeline
